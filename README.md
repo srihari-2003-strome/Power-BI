@@ -54,12 +54,7 @@ Drive retail decisions with:
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-srihari-2003-strome/Power-BI-Insights-Suite.git
-Open any .pbix file with Power BI Desktop.
 
 Interact, explore, or enhance dashboards per your business needs.
 
